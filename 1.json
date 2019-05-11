@@ -1,0 +1,45 @@
+{
+	"Khaldira Rimbasari" : {
+		"address" : "Mekarsari Timur, Tambun Selatan",
+		"hobbiess" : [
+			{
+				"1" : "Menulis",
+				"2" : "Melukis",
+				"3" : "Mengarang",
+			}
+		],
+		"school" : [
+			{
+				"highSchool" : "SMAN 1 Cikarang Pusat",
+				"university" : "belum",
+			}
+		],
+		"skills" : [
+			{
+				"name" : "PHP",
+				"score" : "B",
+			},
+			{
+				"name" : "HTML",
+				"score" : "B",
+			},
+			{
+				"name" : "CSS",
+				"score" : "B",
+			},
+			{
+				"name" : "bootstrap",
+				"score" : "B",
+			},
+			{
+				"name" : "CI",
+				"score" : "C",
+			},
+		]
+	}
+}
+<? php 
+	$name = "khaldira";
+
+echo $name;
+?>
